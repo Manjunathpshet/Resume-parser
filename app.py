@@ -228,7 +228,7 @@ companies worked with and duration details.
  
  
  See Source Code:
- * [See Source Code](https://github.com/Manjunathpshet)
+ * [See Source Code](https://github.com/Manjunathpshet/Resume-parser)
 """)
   
 
