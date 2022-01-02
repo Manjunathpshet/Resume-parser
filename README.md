@@ -14,7 +14,9 @@ About The App:
 
 ## Home Page
 
-![Resume-parser](https://github.com/Manjunathpshet/Stock_market_analysis/blob/master/assets/Home.PNG?raw=true)
+![Resume-parser](https://github.com/Manjunathpshet/Resume-parser/tree/master/assets/Home.PNG?raw=true)
+
+
 ## Installation
 Clone the repo
 ```bash
@@ -42,7 +44,7 @@ or via anaconda
 ```
 and activate environment.
 ```bash
- activate Stock_market_analysis 
+ activate Resume-parser
 ```
 Install the Local requirements
 ```bash
