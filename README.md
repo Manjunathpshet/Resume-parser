@@ -1,8 +1,7 @@
 
 # Resume Parser
 
-Purpose of this project is to help user analyse and forecast the selected 
-company and perform sentiment analysis on the same.
+Purpose of this project is to help user to parse resume and get the required details.
 
 About The App:
 
