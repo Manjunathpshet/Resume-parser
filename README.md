@@ -14,7 +14,7 @@ About The App:
 
 ## Home Page
 
-![Resume-parser](https://github.com/Manjunathpshet/Resume-parser/tree/master/assets/Home.PNG?raw=true)
+![Resume-parser](https://github.com/Manjunathpshet/Resume-parser/blob/master/assets/Home.PNG?raw=true)
 
 
 ## Installation
